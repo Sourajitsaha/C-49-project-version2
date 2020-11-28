@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+}
+* {
+   border:none;
+}
+.top{
+    background-color: yellow ; 
+    display: flex;
+    justify-content: space-around;
+}
+.product{
+    display: flex;
+    justify-content: flex-start;
+    background-color:lightblue ;
+}
+.object{
+    display: flex;
+    justify-content: flex-start;
+    background-color: lightgreen;
+}
+.item{
+    display: flex;
+    justify-content: flex-start;
+    background-color: pink;
+}
+h2{
+    text-align: center;
+}
